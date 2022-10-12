@@ -19,3 +19,4 @@
 ![Database Query Tool (5)](https://user-images.githubusercontent.com/72709799/195412050-d1435150-0ada-4a73-9dfe-c79e1572a7a8.png)
 ![Database Query Tool (6)](https://user-images.githubusercontent.com/72709799/195412102-5782968d-f949-43c0-b2c9-6ae9b5f3b006.png)
 
+### Acknowledgment: Dr. Krista Ternus (Signature Science) 
