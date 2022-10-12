@@ -2,8 +2,12 @@
 
 # TaxaSaurus Rex
 
+***
+
 ## To access all the content of this tool:
 [https://github.com/signaturescience/metscale/blob/master/scripts/README.md](https://github.com/signaturescience/metscale/blob/master/scripts/README.md)
+
+***
 
 ![Database Query Tool](https://user-images.githubusercontent.com/72709799/195411294-00b47c80-cc2f-46ca-94fa-e2bdddb575f7.png)
 ![Database Query Tool_2](https://user-images.githubusercontent.com/72709799/195390221-d5b9a390-9ed6-46f6-bf8a-59ec81fb076c.png)
