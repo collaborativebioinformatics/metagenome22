@@ -1,6 +1,5 @@
-# TaxaSaurus Rex
-
 <img src="TaxRex.png" alt="drawing" width="400"/>
+# TaxaSaurus Rex
 
 [https://github.com/signaturescience/metscale/blob/master/scripts/README.md](https://github.com/signaturescience/metscale/blob/master/scripts/README.md)
 
